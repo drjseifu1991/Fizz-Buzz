@@ -1,0 +1,23 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drjseifu1991/Fizz-Buzz.git"
+  },
+  "keywords": [
+    "Fizz",
+    "Buzz"
+  ],
+  "author": "Dereje Seifu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drjseifu1991/Fizz-Buzz/issues"
+  },
+  "homepage": "https://github.com/drjseifu1991/Fizz-Buzz#readme"
+}
